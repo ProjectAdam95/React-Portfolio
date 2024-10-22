@@ -4,32 +4,32 @@ function Resume() {
   const proficiencies = [
     {
       name: 'HTML',
-      image: '/src/assets/images/html.png',
+      image: '/assets/images/HTML.png',
       link: 'https://en.wikipedia.org/wiki/HTML',
     },
     {
       name: 'CSS',
-      image: '/src/assets/images/css.png',
+      image: '/assets/images/CSS.png',
       link: 'https://en.wikipedia.org/wiki/CSS',
     },
     {
       name: 'JavaScript',
-      image: '/src/assets/images/JS.png',
+      image: '/assets/images/JS.png',
       link: 'https://en.wikipedia.org/wiki/JavaScript',
     },
     {
       name: 'React',
-      image: '/src/assets/images/react.png',
+      image: '/assets/images/React.png',
       link: 'https://en.wikipedia.org/wiki/React_(JavaScript_library)',
     },
     {
       name: 'Node.js',
-      image: '/src/assets/images/node.png',
+      image: '/assets/images/Node.png',
       link: 'https://en.wikipedia.org/wiki/Node.js',
     },
     {
       name: 'Python',
-      image: '/src/assets/images/python.png',
+      image: '/assets/images/Python.png',
       link: 'https://en.wikipedia.org/wiki/Python_(programming_language)',
     },
   ];

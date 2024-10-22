@@ -11,7 +11,7 @@ function About() {
           rel="noopener noreferrer"
         >
           <img 
-            src="/src/assets/images/StormTrooper.jpg" 
+            src="/assets/images/StormTrooper.jpg" 
             alt="Adam Todorovic Avatar" 
             className="w-48 h-48 rounded-full shadow-xl mx-auto transition-transform duration-300 transform hover:scale-110 hover:rotate-3"
           />
