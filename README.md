@@ -126,7 +126,7 @@ If you want to contribute code:
 
 Here’s a preview of the portfolio page showcasing the project:
 
-![Portfolio Screenshot](https://imgur.com/a/mLPCCAy)
+- [Portfolio Screenshot](https://imgur.com/a/mLPCCAy)
 
 ## :star2: Credit/Acknowledgment
 

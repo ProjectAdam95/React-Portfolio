@@ -1,10 +1,12 @@
-import { Link } from 'react-router-dom';  // Import Link from react-router-dom
-import LayoutWrapper from '../components/LayoutWrapper';
+import { Link } from 'react-router-dom';  // Import Link from react-router-dom for internal navigation
+import LayoutWrapper from '../components/LayoutWrapper';  // Import LayoutWrapper to wrap the layout
 
 function About() {
   return (
     <LayoutWrapper>
+      {/* Main container for About section */}
       <div className="text-center mx-auto space-y-10 mt-12 py-12 px-6 bg-gray-50 bg-opacity-90 shadow-2xl border border-gray-300 rounded-3xl max-w-2xl">
+        {/* Link to external page with profile image */}
         <a 
           href="https://starwars.fandom.com/wiki/Stormtrooper" 
           target="_blank" 
@@ -17,6 +19,7 @@ function About() {
           />
         </a>
 
+        {/* About me content */}
         <div>
           <h2 className="text-5xl font-extrabold mb-4 text-gray-900 drop-shadow-lg tracking-tight">
             Adam Todorovic
@@ -32,6 +35,7 @@ function About() {
           </p>
         </div>
 
+        {/* Link to Contact page */}
         <div className="pt-6">
           <Link 
             to="/contact" 
